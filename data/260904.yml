@@ -1,0 +1,58 @@
+about:
+  description:
+  |
+    A TUI for viewing and editing database files.
+  license: MIT
+  homepage: 
+  head: be6f397
+  archived: false
+  latestVersion: v0.9-alpha
+  collectedAt: 2026-09-04T04:47:35Z
+timeline:
+  created: 2021-09-02
+  lastCommit: 2022-06-11
+  lastRelease: 2021-10-29
+popularity:
+  star: 1820
+  watcher: 9
+  fork: 35
+  release: 4
+  contributor: 3
+  pullRequest: 0
+  issue: 14
+language:
+  Go: 150132
+totalBytes: 150132
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-06
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-08
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-09-09
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
